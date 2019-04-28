@@ -1,0 +1,1 @@
+<p>Votre nom est: {{ $nom }} </p>
